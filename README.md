@@ -1,5 +1,5 @@
 # ANZSMS-Programming-workshop
-Programming workshop given at the 2015 Australian and New Zealand Society for Mass Spectrometry conference. 
+Programming workshop given at the 2015 Australian and New Zealand Society for Mass Spectrometry conference. This tutorial covers the basics of programming in Python (using an interactive Ipython notebook). 
 
 Data processing and data analysis are vital aspects of mass spectrometry. While a vast array of tools already exist to aid mass spectrometric analysis, working at the coal face means that tools specific to your application may not exist. Knowledge in programming can help overcome these obstacles and can also streamline data processing.
 
