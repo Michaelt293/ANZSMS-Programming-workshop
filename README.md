@@ -15,7 +15,7 @@ The tutorial can be viewed online -
 
 https://github.com/Michaelt293/ANZSMS-Programming-workshop/blob/master/Python_tutorial.ipynb
 
-To run the code in the tutorial, Python 3 is required. Windows users can download Python 3.5.0 here -
+To run the code in the tutorial, Python 3 is preferred. Windows users can download Python 3.5.0 here -
 
 https://www.python.org/downloads/
 
