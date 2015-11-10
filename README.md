@@ -11,7 +11,7 @@ The workshop will be divided into a hands-on tutorial and a presentation. In the
 
 ## Using this code repository
 
-The tutorial can be viewed online -
+The tutorial can be viewed online here -
 
 https://github.com/Michaelt293/ANZSMS-Programming-workshop/blob/master/Python_tutorial.ipynb
 
@@ -27,6 +27,6 @@ GNU/Linux users should already have Python installed. On my personal computer wi
 
 If you just install Python, you will be able to open the Read Evaluate Print Loop (REPL) and begin running code. This is an excellent way to learn since it provides immediate feedback. 
 
-Another option is to install the Anaconda Python distribution. This is installs Python together with hundreds of popular packages for scientific computing and data analysis including Ipython.
+Another option is to install the Anaconda Python distribution. This installs Python together with hundreds of popular packages for scientific computing and data analysis including Ipython.
 
 https://www.continuum.io/downloads
